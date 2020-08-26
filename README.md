@@ -65,7 +65,7 @@ The architecture of the model exists as the following:
 3. Fully Connected Linear Layer
 4. Cross Entropy Activation
 
-The output maps to a word in a preestablished dictionary, from the [Seinfeld Dataset.](https://en.wikipedia.org/wiki/Seinfeld)
+The output maps to a word in a preestablished dictionary, from the [Seinfeld Dataset.](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv)
 
 ## Long Short Term Memory Networks( LSTMs)
 With the discovery of Recurrent Neural Networks(RNNs) , a whole new dimension was added to the study of Deep Learning. The dimension of Time. With RNNs aur models upgraded from images to videos, time stationary signals to voices, etc.
