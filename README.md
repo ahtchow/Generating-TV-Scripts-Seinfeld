@@ -73,7 +73,8 @@ But earlier model of RNNs suffered from a major problem with Gradients. As the m
 LSTMs try to solve this problem using 4 gates.
 
 Basic Structure of LSTM is as follows
-![LSTM][1]
+![LSTM](LSTM.png)
+
 __These gates are :__
 - Input Gate(Sigmoid) : Controls wether to write a cell or not.
 - Forget Gate(Sigmoid) : Controls Wether to erase data on the cell or not.
