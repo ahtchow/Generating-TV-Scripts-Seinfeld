@@ -1,4 +1,4 @@
-# Seinfeld Script Generation using LSTM (Reccurent Neural Networks).
+# Seinfeld Script Generation using LSTM (Recurrent Neural Networks).
 
 This repository contains step by step code for generation of __Text that resemble Seinfeld Script Writings__.
 
